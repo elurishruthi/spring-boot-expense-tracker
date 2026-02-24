@@ -85,12 +85,12 @@ Response:
   "date": "Date is required"
 }
 
-Database
+## Database
 
 Uses in-memory H2 database for development.
 Can be replaced with MySQL, PostgreSQL, or Oracle in production by updating datasource configuration.
 
-Future Improvements
+## Future Improvements
 
 Pagination support
 Authentication & Authorization (JWT)
